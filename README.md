@@ -1,6 +1,7 @@
 ### Hi there! Selam dünyalı 👾
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/huseyindereli?style=social&link=https://twitter.com/huseyindereli)](https://twitter.com/huseyindereli)
+<br>
 
-
-[![Linkedin: Huseyin Dereli](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyindereli/)](https://www.linkedin.com/in/huseyindereli/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/huseyindereli)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/huseyindereli/)
+[![SAP Community](https://img.shields.io/badge/Community-0C7ECF?style=flat&logo=SAP&logoColor=white)](https://people.sap.com/huseyin.dereli)
